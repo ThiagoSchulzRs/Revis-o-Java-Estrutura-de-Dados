@@ -39,7 +39,7 @@ Este projeto tem como objetivo ajudar os alunos a entenderem melhor a sintaxe do
   - `conectar()`
   - `desconectar()`
 
-> Todas as subclasses devem implementar essa interface.
+- Todas as subclasses devem implementar essa interface.
 
 ---
 
