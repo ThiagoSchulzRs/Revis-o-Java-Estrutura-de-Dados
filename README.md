@@ -3,15 +3,11 @@
 ## 🎯 Objetivo
 
 Este projeto tem como objetivo ajudar os alunos a entenderem melhor a sintaxe do Java e os conceitos de:
-
 - Herança e abstração
 - Interfaces e polimorfismo
 - Princípios SOLID:
-  - **Single Responsibility Principle**: Cada classe tem uma única responsabilidade.
-  - **Open/Closed Principle**: Podemos adicionar novos dispositivos sem alterar as classes existentes.
-
-> 📌 **Este exercício vale 1 ponto extra na nota da prova** e deve ser feito em aula.
-
+- Single Responsibility Principle: Cada classe tem uma única responsabilidade.
+- Open/Closed Principle: Podemos adicionar novos dispositivos sem alterar as classes existentes.
 ---
 
 ## 🧱 Requisitos
@@ -63,7 +59,3 @@ Métodos:
 - Conectar os dispositivos
 - Executar ações
 - Desconectar os dispositivos
-
----
-
-## 📂 Estrutura de Pastas Sugerida
